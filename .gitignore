@@ -1,0 +1,6 @@
+_site/
+*.swp
+pkg/
+test/
+log/
+.DS_Store
